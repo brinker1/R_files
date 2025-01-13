@@ -12,7 +12,7 @@ This report includes the following deliverables:
 5. Supporting visualizations and key findings
 6. Top three recommendations based on your analysis
 
-## Business Task
+## Business task
  
  In this case study, I will use data to answer the question of how casual riders and annual members use Cyclistic bikes differently. By answering this question, I’ll provide the marketing team with insights into how to advertise to casual riders so that they’re more likely to purchase an annual membership. Key fictional stakeholders for the business task include the Cyclistic marketing team, who are looking to increase annual memberships, and the executive team, who must approve the recommended marketing program before launch. I answer to the director of marketing, who is looking for insights in the data to inform marketing strategy.
 
