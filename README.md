@@ -121,7 +121,7 @@ Next, I created visualizations displaying the relationship between variables in 
 
 **Visualization One: Ride Count by User Type**
 
-![viz1](Graphs\Rplot.png)
+![viz1](Graphs/Rplot.png)
 This graph is produced by following the steps in the template and shows weekday/member type vs. number of rides. The blue represents members while the red represents casual users. The code to generate the graph is as follows:
 
 
