@@ -138,7 +138,7 @@ all_trips_v2 %>%
 
 **Visualization Two: Ride Count by User Type (alternative visualization)**
 
-![viz2](Graphs\Rplot_count_vs_day_of_week_1.png)
+![viz2](Graphs/Rplot_count_vs_day_of_week_1.png)
 This graph displays the same data as the previous one, except it uses fill rather than separate bars to indicate member type. The height of the bars indicates the total count of rides for each day. Code: 
 ```r
 # ride count vs. day of the week
@@ -147,7 +147,7 @@ ggplot(data = all_trips_v2) + geom_bar(mapping = aes(x = day_of_week, fill = mem
 ```
 
 **Visualization Three: Average Ride Duration by User Type**
-![viz3](Graphs\Rplot_avg_duration_vs_weekday.png)
+![viz3](Graphs/Rplot_avg_duration_vs_weekday.png)
 The x-axis of this visualization shows day of the week, the y-axis shows duration, separated by user type. Code: 
 ```r
 all_trips_v2 %>% 
